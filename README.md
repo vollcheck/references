@@ -13,5 +13,8 @@
 - https://www.abhinavomprakash.com/posts/clojure-walk/
   [walk]
 
+- https://grishaev.me/en/clojure-zippers/
+  [zipper]
+
 - https://www.youtube.com/watch?v=kBKIGj1_WAo&ab_channel=ChrisOakman
-  [cljs] [compiler internals]
+  [clojurescript] [compiler internals]
