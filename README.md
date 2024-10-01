@@ -9,3 +9,9 @@
 
 - https://srasu.srht.site/var-evaluation.html
   [repl]
+
+- https://www.abhinavomprakash.com/posts/clojure-walk/
+  [walk]
+
+- https://www.youtube.com/watch?v=kBKIGj1_WAo&ab_channel=ChrisOakman
+  [cljs] [compiler internals]
